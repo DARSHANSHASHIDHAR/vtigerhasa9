@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19" started-at="2023-01-25T13:00:34Z" finished-at="2023-01-25T13:00:34Z">
+    <groups>
+      <group name="Smoke">
+        <method signature="GroupExecutionExample.test1()[pri:0, instance:com.testng.GroupExecutionExample@15c43bd9]" name="test1" class="com.testng.GroupExecutionExample"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test name="Test" duration-ms="19" started-at="2023-01-25T13:00:34Z" finished-at="2023-01-25T13:00:34Z">
+      <class name="com.testng.GroupExecutionExample">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.testng.GroupExecutionExample@15c43bd9]" name="test1" duration-ms="8" started-at="2023-01-25T18:30:34Z" finished-at="2023-01-25T18:30:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.testng.GroupExecutionExample -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
